@@ -1,53 +1,53 @@
 Name,Flags,Draft Cost,Build Cost,Gold,Ability,Influence,Qty
-Cathedral,,4,4,,,5,1
+Cathedral,,4,4,0,,5,1
 Oligarchy,,1,4,2,Draw a card. This card grants influence equal to half of the total gold production in your deck.,?,1
-Monarchy,,1,2,,"Draw a card. This card grants influence equal to the number of Elite cards you have, minus the number of Common cards you have.",?,1
-Democracy,,4,3,,"This card grants influence equal to the number of Common cards you have, minus the number of Elite cards.",?,1
-Stratocracy,,2,3,,This card grants influence equal to the number of Martial cards you have.,?,1
-Theocracy,,3,3,,This card grants influence equal to the number of cards you have that grant influence.,?,1
-Inquisition,Infiltration,3,2,,"This card grants influence equal to the number of Inflitration cards you have, minus the number of Common cards you have.",?,2
-Overseer,Infiltration,3,1,1,Secrets cards you have grant one additional influence each.,,1
-Stoneworker's Guild,,2,3,1,Gain gold equal to the number of Craft cards you have in play.,,1
+Monarchy,,1,2,0,"Draw a card. This card grants influence equal to the number of Elite cards you have, minus the number of Common cards you have.",?,1
+Democracy,,4,3,0,"This card grants influence equal to the number of Common cards you have, minus the number of Elite cards.",?,1
+Stratocracy,,2,3,0,This card grants influence equal to the number of Martial cards you have.,?,1
+Theocracy,,3,3,0,This card grants influence equal to the number of cards you have that grant influence.,?,1
+Inquisition,Infiltration,3,2,0,"This card grants influence equal to the number of Inflitration cards you have, minus the number of Common cards you have.",?,2
+Overseer,Infiltration,3,1,1,Secrets cards you have grant one additional influence each.,0,1
+Stoneworker's Guild,,2,3,1,Gain gold equal to the number of Craft cards you have in play.,0,1
 Jeweler's Guild,,2,3,2,This card grants influence equal to the number of Craft cards you have.,?,1
-Farmer's Guild,,2,3,1,Gain gold equal to the number of Farming cards you have in play.,,1
-Lurker,Infiltration,2,1,,Gather Information.,,3
-Sabatoge,,1,1,,Your opponent discards one random card from their hand.,,2
-Assassination,Infiltration,2,2,,Look at your opponent's hand. Choose one card for them to discard.,,2
+Farmer's Guild,,2,3,1,Gain gold equal to the number of Farming cards you have in play.,0,1
+Lurker,Infiltration,2,1,0,Gather Information.,0,3
+Sabotage,,1,1,0,Your opponent discards one random card from their hand.,0,2
+Assassination,Infiltration,2,2,0,Look at your opponent's hand. Choose one card for them to discard.,0,2
 Enslaved Workers,Common,1,0,1,,-1,2
-Vaults,,1,4,3,Draw a card and gain two gold.,,1
+Vaults,,1,4,3,Draw a card and gain two gold.,0,1
 Taxes,Elite,1,1,2,Add one Season of Tribute to your Seasons deck.,-1,2
-Thieve's Alliance,,1,2,2,Add one Season of Tribute to your Seasons deck. Your opponent may Gather Information.,,1
+Thieve's Alliance,,1,2,2,Add one Season of Tribute to your Seasons deck. Your opponent may Gather Information.,0,1
 Orchard,Farming,3,2,2,,1,2
-Mushroom Fields,Farming,1,1,1,,,2
+Mushroom Fields,Farming,1,1,1,,0,2
 Sculptor,Craft,2,1,1,,1,2
 Jeweler,Craft,2,2,1,Gain gold equal to the number of Elite cards you have in play.,1,1
 Propaganda,,2,2,1,Draw a card.,1,2
-Trolls,Martial,3,2,,,-1,1
-Hired Raiders,,2,2,2,Add one Season of Ruin to your opponent's Seasons deck. Your opponent may Gather Information.,,2
-Raiding Party,,2,2,,Your opponent is Attacked for an amount equal to the number of Martial cards in play.,,2
-Mercenaries,Martial,1,2,,Your opponent may discard a card that grants two or more gold to take this card and put it in their discard.,,2
-Trade Agreement,,3,1,2,You and your opponent may negotiate a trade of two cards in your discard piles.,,1
-Enthraller,Elite,3,2,,Gain gold equal to the number of Common cards you have in play. Common cards you have give -1 influence.,,1
-Skilled Workers,Craft,2,2,2,,,2
-Ratcatcher,Inflitration,2,2,1,Your opponent destroys one Secrets card in their discard pile.,,2
+Trolls,Martial,3,2,0,,-1,1
+Hired Raiders,,2,2,2,Add one Season of Ruin to your opponent's Seasons deck. Your opponent may Gather Information.,0,2
+Raiding Party,,2,2,0,Your opponent is Attacked for an amount equal to the number of Martial cards in play.,0,2
+Mercenaries,Martial,1,2,0,Your opponent may discard a card that grants two or more gold to take this card and put it in their discard.,0,2
+Trade Agreement,,3,1,2,You and your opponent may negotiate a trade of two cards in your discard piles.,0,1
+Enthraller,Elite,3,2,0,Gain gold equal to the number of Common cards you have in play. Common cards you have give -1 influence.,0,1
+Skilled Workers,Craft,2,2,2,,0,2
+Ratcatcher,Inflitration,2,2,1,Your opponent destroys one Secrets card in their discard pile.,0,2
 Worker's Coalition,Common,3,2,1,Common cards in play produce one less gold (except this one). This card grants influence equal to the number of Common cards you have.,?,1
 Vast Wealth,Elite,1,4,4,,1,1
-Steal Draft,Inflitration,3,2,,Place a Draft Marker on a card where your opponent has a Draft Marker.,,2
-Census,,3,2,,"Look through your deck, keeping it in the same order. You may choose one card from it to discard, and one card to put on top.",,1
-Draftsmen,,2,1,1,It costs one less gold to draft cards.,,2
+Steal Draft,Inflitration,3,2,0,Place a Draft Marker on a card where your opponent has a Draft Marker.,0,2
+Census,,3,2,0,"Look through your deck, keeping it in the same order. You may choose one card from it to discard, and one card to put on top.",0,1
+Draftsmen,,2,1,1,It costs one less gold to draft cards.,0,2
 Exotic Fruits,Farming,3,3,1,,2,1
 Stockpile,,2,3,1,It costs one less gold to build cards.,1,1
-Seer,,3,1,,Look at the top card of your Seasons deck. You may put it on the bottom of the deck.,,1
-Increased Efficiency,,3,2,,Gain gold equal to the gold production of one card in play.,,1
-Refuse Sorters,,2,2,1,Add one random card from your discard pile to your hand.,,1
-Designer,,2,2,,Add one card to the project row. You may put a draft marker on it.,,1
-Workers,Common,,2,1,,,6
-Guards,Martial,,2,,,,6
-Secrets,,,,,Draw a card.,1,10
-Ruin,,,,,,-1,8
-Lurker,Infiltration,,,1,Gather Information.,,2
-Workers,Common,,,1,You may destroy one Ruin card in your discard pile.,,4
-Noble,Elite,,,2,,,2
-Guards,Martial,,,,,,4
-Garden Plots,Farming,,,1,,,2
-Stoneworker,Craft,,,1,Discard a card to gain two gold.,,2
+Seer,,3,1,0,Look at the top card of your Seasons deck. You may put it on the bottom of the deck.,0,1
+Increased Efficiency,,3,2,0,Gain gold equal to the gold production of one card in play.,0,1
+Refuse Sorters,,2,2,1,Add one random card from your discard pile to your hand.,0,1
+Designer,,2,2,0,Add one card to the project row. You may put a draft marker on it.,0,1
+Workers,Common,,2,1,,0,6
+Guards,Martial,,2,0,,0,6
+Secrets,,,,0,Draw a card.,1,10
+Ruin,,,,0,,-1,8
+Lurker,Infiltration,,,1,Gather Information.,0,2
+Workers,Common,,,1,You may destroy one Ruin card in your discard pile.,0,4
+Noble,Elite,,,2,,0,2
+Guards,Martial,,,0,,0,4
+Garden Plots,Farming,,,1,,0,2
+Stoneworker,Craft,,,1,Discard a card to gain two gold.,0,2

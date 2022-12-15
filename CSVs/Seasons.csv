@@ -1,10 +1,10 @@
 Name,Ability,Influence,Qty
-Season of Tribute,Gain one gold for each card that gives you gold. Destroy this card at the end of the turn.,,6
-Season of Ruin,"You are Attacked 2. If you do not discard any cards or gain any Ruins, destroy this card.",,8
-Season of Stability,,,2
+Season of Tribute,Gain one gold for each card that gives you gold. Destroy this card at the end of the turn.,0,6
+Season of Ruin,"You are Attacked 2. If you do not discard any cards or gain any Ruins, destroy this card.",0,8
+Season of Stability,,0,2
 Season of Famine,"At the start of the turn, discard one card.",-1,2
-Season of Innovation,You may draft one card with a draft cost of three or less.,,2
+Season of Innovation,You may draft one card with a draft cost of three or less.,0,2
 Season of Prosperity,Gain one gold.,1,2
 Season of Famine,"At the start of the turn, discard one card.",-1,2
-Season of Reduction,"At the end of your turn, destroy one card in your discard pile.",,2
-Season of Growth,"At the start of the turn, draw one card.",,2
+Season of Reduction,"At the end of your turn, destroy one card in your discard pile.",0,2
+Season of Growth,"At the start of the turn, draw one card.",0,2
